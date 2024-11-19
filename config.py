@@ -13,7 +13,7 @@ API_HASH = os.environ.get("API_HASH", "b204ec833fb451fb913fc8e683b232d0")
 
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "7538420261:AAFL8wVMWfgr6ZWbcf4ZBoyYT27BeAyG-y8") 
 
-FORCE_SUB = os.environ.get("FORCE_SUB", "VJ_Botz") 
+FORCE_SUB = os.environ.get("FORCE_SUB", "Kdrama_Cdrama_Jav_In_Hindi") 
 
              # Don't Remove Credit @VJ_Botz
              # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
